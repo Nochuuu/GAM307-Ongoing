@@ -10,17 +10,33 @@ public class EnemyManager : MonoBehaviour {
      * Spawn a random as above
      * 
      */
-
+    
+    //Declare variables to hold our prefabs
     public GameObject[] enemies;
-    int maxEnemyCount = 10;
-    int currentEnemyCount;
+    //int maxEnemyCount = 10;
+    //int currentEnemyCount;
 	// Use this for initialization
 	void Start ()
     {
-        currentEnemyCount = 0;
-        StartCoroutine(SpawnEnemies());
+       // currentEnemyCount = 0;
+       //StartCoroutine(SpawnEnemies());
+        for (int i = 0; i < 5; i++)
+        {
+            // get random position
+            Vector3 spawnPos = new Vector3(Random.Range(-10, 10), 0, (Random.Range(-10, 10)));
+
+            // Instantiate the (random) prefab at a random position
+            Instantiate(enemies[Random.Range(0, enemies.Length)], spawnPos, transform.rotation);
+        }
 	}
 
+
+
+
+
+
+
+    /*
     IEnumerator SpawnEnemies()
     {
         while (currentEnemyCount < maxEnemyCount)
@@ -34,11 +50,6 @@ public class EnemyManager : MonoBehaviour {
             currentEnemyCount++;
         }
 
-    }
-
-    //if (currentEnemyCount < maxEnemyCount)
-    //    StartCoroutine(SpawnEnemies());
-    //else
-    //    StopAllCoroutines();
+    }*/
 
 }
