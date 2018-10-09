@@ -4,12 +4,11 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour {
 
-    public static int enemyCount = 0;
     public static float rotateSpeed = 10;
 	// Use this for initialization
 	void Start ()
     {
-        enemyCount++;
+        EnemyManager.instance.enemyCount++;
 	}
 
     void Update()
@@ -33,7 +32,8 @@ public class Enemy : MonoBehaviour {
     
         }
         yield return new WaitForSeconds(1);
-        enemyCount--;
+        EnemyManager.instance.enemyCount--;
+        GameManager.instance.score += 100;
         Destroy(this.gameObject);
     }
 }
