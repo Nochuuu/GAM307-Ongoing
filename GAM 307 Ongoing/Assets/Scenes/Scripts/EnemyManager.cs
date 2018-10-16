@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnemyManager : Singleton<EnemyManager> {
+public class EnemyManager : Singleton<EnemyManager>
+{
 
     public int enemyCount;
 
@@ -17,7 +18,16 @@ public class EnemyManager : Singleton<EnemyManager> {
 
     public void SpawnEnemy()
     {
-           for (int i = 0; i < 2; i++)
+        int spawnNumber = 0;
+        if (GameManager.instance.difficulty == DifficultyLevel.EASY)
+            spawnNumber = 1;
+        if (GameManager.instance.difficulty == DifficultyLevel.MEDIUM)
+            spawnNumber = 2;
+        if (GameManager.instance.difficulty == DifficultyLevel.HARD)
+            spawnNumber = 3;
+
+
+            for (int i = 0; i < spawnNumber; i++)
             {
                 // get random position
                 Vector3 spawnPos = new Vector3(Random.Range(-10, 10), 0, (Random.Range(-10, 10)));
@@ -26,5 +36,20 @@ public class EnemyManager : Singleton<EnemyManager> {
                 Instantiate(enemies[Random.Range(0, enemies.Length)], spawnPos, transform.rotation);
             }
         }
+
+    private void OnEnable()
+    {
+        GameEvents.OnEnemyDie += OnEnemyDie;
+    }
+
+    private void OnDisable()
+    {
+        GameEvents.OnEnemyDie -= OnEnemyDie;
+    }
+
+    void OnEnemyDie()
+    {
+        enemyCount--;
+        SpawnEnemy();
     }
 }

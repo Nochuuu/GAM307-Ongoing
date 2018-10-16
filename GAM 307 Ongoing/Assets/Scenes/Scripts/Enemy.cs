@@ -31,9 +31,45 @@ public class Enemy : MonoBehaviour {
             yield return null;
     
         }
-        yield return new WaitForSeconds(1);
-        EnemyManager.instance.enemyCount--;
-        GameManager.instance.score += 100;
+
+        GameEvents.ReportOnEnemyDie();
+
+        //EnemyManager.instance.enemyCount--;
+        //EnemyManager.instance.SpawnEnemy();
+        //GameManager.instance.score += 100;
+        //GameManager.instance.AddScore(100);
+
         Destroy(this.gameObject);
+    }
+
+
+    private void OnEnable()
+    {
+        GameEvents.OnDifficultyChange += OnDifficultyChange;
+    }
+
+    private void OnDisable()
+    {
+        GameEvents.OnDifficultyChange -= OnDifficultyChange;
+    }
+
+    void OnDifficultyChange(DifficultyLevel difficulty)
+    {
+        if(difficulty == DifficultyLevel.EASY)
+        {
+            GetComponent<Renderer>().material.color = Color.green;
+            transform.localScale = new Vector3(3, 3, 3);
+        }
+        if (difficulty == DifficultyLevel.MEDIUM)
+        {
+            GetComponent<Renderer>().material.color = Color.blue;
+            transform.localScale = new Vector3(2, 2, 2);
+        }
+        if (difficulty == DifficultyLevel.HARD)
+        {
+            GetComponent<Renderer>().material.color = Color.red;
+            transform.localScale = new Vector3(1, 1, 1);
+        }
+
     }
 }

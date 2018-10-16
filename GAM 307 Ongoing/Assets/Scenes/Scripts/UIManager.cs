@@ -7,13 +7,26 @@ public class UIManager : MonoBehaviour {
 
     public TextMeshProUGUI enemyCount;
     public TextMeshProUGUI scoreText;
-    // Use this for initialization
-    void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update ()
+
+    // Update is called once per frame
+
+    //void Update()
+    //{
+    //    enemyCount.text = "Enemy Count: <color=red>" + EnemyManager.instance.enemyCount.ToString();
+    //    scoreText.text = "Score: <color=green>" + GameManager.instance.score.ToString();
+    //}
+
+    private void OnEnable()
+    {
+        GameEvents.OnEnemyDie += OnEnemyDie;
+    }
+
+    private void OnDisable()
+    {
+        GameEvents.OnEnemyDie -= OnEnemyDie;
+    }
+
+    void OnEnemyDie()
     {
         enemyCount.text = "Enemy Count: <color=red>" + EnemyManager.instance.enemyCount.ToString();
         scoreText.text = "Score: <color=green>" + GameManager.instance.score.ToString();
