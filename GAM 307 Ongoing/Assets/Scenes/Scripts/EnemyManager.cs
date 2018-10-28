@@ -7,7 +7,7 @@ public class EnemyManager : Singleton<EnemyManager>
 
     public int enemyCount;
 
-    //Declare variables to hold our prefabs
+    // Declare variables to hold our prefabs
     public GameObject[] enemies;
 
 
