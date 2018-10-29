@@ -23,7 +23,7 @@ public class Enemy : MonoBehaviour {
 
     [Header("Traits")]
     public int attack;
-    public int defense;
+    public int defence;
     
 
 
@@ -32,13 +32,26 @@ public class Enemy : MonoBehaviour {
         EnemyManager.instance.enemyCount++;
 	}
 
-    void OnMouseDown()
+    public void GotHit(int baseDamage)
     {
-        StartCoroutine(FadeMe());
+        health -= baseDamage;
+
+        GameEvents.ReportOnEnemyHit(enemyType, scoreValue);
+
+        if (health <= 0)
+            StartCoroutine(Die());
     }
 
-    IEnumerator FadeMe()
+    void OnMouseDown()
     {
+        StartCoroutine(Die());
+    }
+
+    #region Enemy Die
+    IEnumerator Die()
+    {
+        GetComponent<Collider>().enabled = false;
+
         for (float f = 1f; f >= 0; f -= 0.01f)
         {
             Color c = GetComponent<Renderer>().material.color;
@@ -57,7 +70,7 @@ public class Enemy : MonoBehaviour {
 
         Destroy(this.gameObject);
     }
-
+    #endregion
 
     private void OnEnable()
     {
@@ -69,6 +82,7 @@ public class Enemy : MonoBehaviour {
         GameEvents.OnDifficultyChange -= OnDifficultyChange;
     }
 
+    #region Difficulty switch
     void OnDifficultyChange(DifficultyLevel difficulty)
     {
         
@@ -91,7 +105,7 @@ public class Enemy : MonoBehaviour {
                 transform.localScale = new Vector3(3, 3, 3);
                 break;
         }
-
+        #endregion
 
 
 
