@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using TMPro;
 
 public enum EnemyType
 {
@@ -24,12 +26,18 @@ public class Enemy : MonoBehaviour {
     [Header("Traits")]
     public int attack;
     public int defence;
-    
 
+    [Header("UI Elements")]
+    public TextMeshProUGUI healthUI;
+    public Image healthBar;
+
+    public float healthBarSections;
 
 	void Start ()
     {
         EnemyManager.instance.enemyCount++;
+
+        //healthBarSections = (float)health / 100;
 	}
 
     public void GotHit(int baseDamage)
@@ -40,6 +48,13 @@ public class Enemy : MonoBehaviour {
 
         if (health <= 0)
             StartCoroutine(Die());
+
+        healthUI.text = "Health: " + health.ToString();
+
+        Vector3 temp = healthBar.transform.localScale;
+        temp.x = health * healthBarSections;
+        healthBar.transform.localScale = temp;
+
     }
 
     void OnMouseDown()
@@ -72,6 +87,7 @@ public class Enemy : MonoBehaviour {
     }
     #endregion
 
+    #region Difficulty switch
     private void OnEnable()
     {
         GameEvents.OnDifficultyChange += OnDifficultyChange;
@@ -82,7 +98,7 @@ public class Enemy : MonoBehaviour {
         GameEvents.OnDifficultyChange -= OnDifficultyChange;
     }
 
-    #region Difficulty switch
+    
     void OnDifficultyChange(DifficultyLevel difficulty)
     {
         

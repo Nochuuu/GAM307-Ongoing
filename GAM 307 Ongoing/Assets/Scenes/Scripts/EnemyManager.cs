@@ -10,7 +10,7 @@ public class EnemyManager : Singleton<EnemyManager>
     // Declare variables to hold our prefabs
     public GameObject[] enemies;
 
-
+    #region EnemySpawn
     void Start()
     {
         SpawnEnemy();
@@ -36,6 +36,7 @@ public class EnemyManager : Singleton<EnemyManager>
                 Instantiate(enemies[Random.Range(0, enemies.Length)], spawnPos, transform.rotation);
             }
         }
+    #endregion
 
     private void OnEnable()
     {
