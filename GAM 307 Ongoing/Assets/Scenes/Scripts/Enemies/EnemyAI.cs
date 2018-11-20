@@ -5,10 +5,19 @@ using UnityEngine.AI;
 using UnityStandardAssets.Characters.ThirdPerson;
 
 public enum EnemyState { PATROL, CHASE, IDLE }
+public enum PatrolState { FIXED, RANDOM }
+public enum AlertState { SOUND, VISION }
 
 public class EnemyAI : MonoBehaviour
 {
+    public float speed = 1f;
+    public float listenDistance = 5;
+    public float visionDistance = 10;
+
     public EnemyState enemyState;
+    public PatrolState patrolState;
+    public AlertState alertState;
+
     public NavMeshAgent agent { get; private set; }             // the navmesh agent required for the path finding
     public ThirdPersonCharacter character { get; private set; } // the character we are controlling
     public Transform target;                                    //The target is what this agent will follow
@@ -53,7 +62,26 @@ public class EnemyAI : MonoBehaviour
             else
                 character.Move(Vector3.zero, false, false);
 
-            DebugControl();
+        if (alertState == AlertState.SOUND)
+        {
+            if (Vector3.Distance(transform.position, player.position) < listenDistance)
+                enemyState = EnemyState.CHASE;
+            else
+                enemyState = EnemyState.PATROL;
+        }
+
+        if(alertState == AlertState.VISION && enemyState == EnemyState.PATROL)
+        {
+            RaycastHit hit;
+
+            if (Physics.Raycast(transform.position, transform.TransformDirection(Vector3.forward), out hit, visionDistance))
+            {
+                if (hit.collider.CompareTag("Player"))
+                    enemyState = EnemyState.CHASE;
+            }
+        }
+
+        DebugControl();
         }
 
     private int destPoint = 0;
@@ -71,7 +99,11 @@ public class EnemyAI : MonoBehaviour
 
             //Choose the next point in the list as the destination
             //cycling to the start if neccessary
-            destPoint = (destPoint + 1) % patrolPoints.Count;
+            if (patrolState == PatrolState.FIXED)
+                destPoint = (destPoint + 1) % patrolPoints.Count;
+            else
+                destPoint = Random.Range(0, patrolPoints.Count);
+
         }
 
     }
@@ -81,13 +113,19 @@ public class EnemyAI : MonoBehaviour
     {
         agent.isStopped = true;
         SetTarget(null);
+        StartCoroutine(ReturnToPatrol());
+    }
 
+    IEnumerator ReturnToPatrol()
+    {
+        yield return new WaitForSeconds(Random.Range(3, 5));
+        enemyState = EnemyState.PATROL;
     }
 
     void ChaseActions()
     {
         agent.isStopped = false;
-        agent.speed = 1f;
+        agent.speed = speed * 2;
         SetTarget(player);
     }
 
