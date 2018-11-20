@@ -8,7 +8,6 @@ public enum EnemyState { PATROL, CHASE, IDLE }
 
 public class EnemyAI : MonoBehaviour
 {
-    public float speed = 1.0f;
     public EnemyState enemyState;
     public NavMeshAgent agent { get; private set; }             // the navmesh agent required for the path finding
     public ThirdPersonCharacter character { get; private set; } // the character we are controlling
