@@ -34,3 +34,1288 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+GAM 307 Ongoing/Assets/Assets/Prefabs/ControlPoint1.prefab
+GAM 307 Ongoing/Assets/Assets/Prefabs/ControlPoint1.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes.meta
+GAM 307 Ongoing/Assets/SampleScenes/AudioMixers.meta
+GAM 307 Ongoing/Assets/SampleScenes/AudioMixers/Car.mixer
+GAM 307 Ongoing/Assets/SampleScenes/AudioMixers/Car.mixer.meta
+GAM 307 Ongoing/Assets/SampleScenes/AudioMixers/JetPlane.mixer
+GAM 307 Ongoing/Assets/SampleScenes/AudioMixers/JetPlane.mixer.meta
+GAM 307 Ongoing/Assets/SampleScenes/AudioMixers/PropellerPlane.mixer
+GAM 307 Ongoing/Assets/SampleScenes/AudioMixers/PropellerPlane.mixer.meta
+GAM 307 Ongoing/Assets/SampleScenes/Materials.meta
+GAM 307 Ongoing/Assets/SampleScenes/Materials/MauveSmooth.mat
+GAM 307 Ongoing/Assets/SampleScenes/Materials/MauveSmooth.mat.meta
+GAM 307 Ongoing/Assets/SampleScenes/Materials/NavyDarkGrid.mat
+GAM 307 Ongoing/Assets/SampleScenes/Materials/NavyDarkGrid.mat.meta
+GAM 307 Ongoing/Assets/SampleScenes/Materials/NavyDarkSmooth.mat
+GAM 307 Ongoing/Assets/SampleScenes/Materials/NavyDarkSmooth.mat.meta
+GAM 307 Ongoing/Assets/SampleScenes/Materials/NavyGrid.mat
+GAM 307 Ongoing/Assets/SampleScenes/Materials/NavyGrid.mat.meta
+GAM 307 Ongoing/Assets/SampleScenes/Materials/NavySmooth.mat
+GAM 307 Ongoing/Assets/SampleScenes/Materials/NavySmooth.mat.meta
+GAM 307 Ongoing/Assets/SampleScenes/Materials/OrangeSmooth.mat
+GAM 307 Ongoing/Assets/SampleScenes/Materials/OrangeSmooth.mat.meta
+GAM 307 Ongoing/Assets/SampleScenes/Materials/ParticleClouds.mat
+GAM 307 Ongoing/Assets/SampleScenes/Materials/ParticleClouds.mat.meta
+GAM 307 Ongoing/Assets/SampleScenes/Materials/PinkSmooth.mat
+GAM 307 Ongoing/Assets/SampleScenes/Materials/PinkSmooth.mat.meta
+GAM 307 Ongoing/Assets/SampleScenes/Materials/PinkUnlit.mat
+GAM 307 Ongoing/Assets/SampleScenes/Materials/PinkUnlit.mat.meta
+GAM 307 Ongoing/Assets/SampleScenes/Materials/SkyboxProcedural.mat
+GAM 307 Ongoing/Assets/SampleScenes/Materials/SkyboxProcedural.mat.meta
+GAM 307 Ongoing/Assets/SampleScenes/Materials/TealSmooth.mat
+GAM 307 Ongoing/Assets/SampleScenes/Materials/TealSmooth.mat.meta
+GAM 307 Ongoing/Assets/SampleScenes/Materials/TurquoiseSmooth.mat
+GAM 307 Ongoing/Assets/SampleScenes/Materials/TurquoiseSmooth.mat.meta
+GAM 307 Ongoing/Assets/SampleScenes/Materials/WhiteSmooth.mat
+GAM 307 Ongoing/Assets/SampleScenes/Materials/WhiteSmooth.mat.meta
+GAM 307 Ongoing/Assets/SampleScenes/Materials/WhiteUnlit.mat
+GAM 307 Ongoing/Assets/SampleScenes/Materials/WhiteUnlit.mat.meta
+GAM 307 Ongoing/Assets/SampleScenes/Materials/YellowSmooth.mat
+GAM 307 Ongoing/Assets/SampleScenes/Materials/YellowSmooth.mat.meta
+GAM 307 Ongoing/Assets/SampleScenes/Menu.meta
+GAM 307 Ongoing/Assets/SampleScenes/Menu/Prefabs.meta
+GAM 307 Ongoing/Assets/SampleScenes/Menu/Prefabs/EventSystem.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Menu/Prefabs/EventSystem.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Menu/Prefabs/MainMenuLoader.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Menu/Prefabs/MainMenuLoader.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Menu/Prefabs/MainMenuUI.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Menu/Prefabs/MainMenuUI.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Menu/Prefabs/NetworkGameMenuUI.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Menu/Prefabs/NetworkGameMenuUI.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Menu/Prefabs/NetworkScoreBarUI.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Menu/Prefabs/NetworkScoreBarUI.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Menu/Scripts.meta
+GAM 307 Ongoing/Assets/SampleScenes/Menu/Scripts/MenuSceneLoader.cs
+GAM 307 Ongoing/Assets/SampleScenes/Menu/Scripts/MenuSceneLoader.cs.meta
+GAM 307 Ongoing/Assets/SampleScenes/Menu/Scripts/PauseMenu.cs
+GAM 307 Ongoing/Assets/SampleScenes/Menu/Scripts/PauseMenu.cs.meta
+GAM 307 Ongoing/Assets/SampleScenes/Menu/Scripts/SceneAndURLLoader.cs
+GAM 307 Ongoing/Assets/SampleScenes/Menu/Scripts/SceneAndURLLoader.cs.meta
+GAM 307 Ongoing/Assets/SampleScenes/Menu/Sprites.meta
+GAM 307 Ongoing/Assets/SampleScenes/Menu/Sprites/LogoUnitySprite.png
+GAM 307 Ongoing/Assets/SampleScenes/Menu/Sprites/LogoUnitySprite.png.meta
+GAM 307 Ongoing/Assets/SampleScenes/Menu/Sprites/MenuCornerTopRightSprite.png
+GAM 307 Ongoing/Assets/SampleScenes/Menu/Sprites/MenuCornerTopRightSprite.png.meta
+GAM 307 Ongoing/Assets/SampleScenes/Models.meta
+GAM 307 Ongoing/Assets/SampleScenes/Models/Brick.fbx
+GAM 307 Ongoing/Assets/SampleScenes/Models/Brick.fbx.meta
+GAM 307 Ongoing/Assets/SampleScenes/Models/Cube.fbx
+GAM 307 Ongoing/Assets/SampleScenes/Models/Cube.fbx.meta
+GAM 307 Ongoing/Assets/SampleScenes/Models/GoalPosts.fbx
+GAM 307 Ongoing/Assets/SampleScenes/Models/GoalPosts.fbx.meta
+GAM 307 Ongoing/Assets/SampleScenes/Models/GroundObstacles.FBX
+GAM 307 Ongoing/Assets/SampleScenes/Models/GroundObstacles.FBX.meta
+GAM 307 Ongoing/Assets/SampleScenes/Models/GroundRunway.FBX
+GAM 307 Ongoing/Assets/SampleScenes/Models/GroundRunway.FBX.meta
+GAM 307 Ongoing/Assets/SampleScenes/Models/GroundTrack.fbx
+GAM 307 Ongoing/Assets/SampleScenes/Models/GroundTrack.fbx.meta
+GAM 307 Ongoing/Assets/SampleScenes/Models/LaserBolt.fbx
+GAM 307 Ongoing/Assets/SampleScenes/Models/LaserBolt.fbx.meta
+GAM 307 Ongoing/Assets/SampleScenes/Models/Loop.fbx
+GAM 307 Ongoing/Assets/SampleScenes/Models/Loop.fbx.meta
+GAM 307 Ongoing/Assets/SampleScenes/Models/Materials.meta
+GAM 307 Ongoing/Assets/SampleScenes/Models/Materials/Asteroid.mat
+GAM 307 Ongoing/Assets/SampleScenes/Models/Materials/Asteroid.mat.meta
+GAM 307 Ongoing/Assets/SampleScenes/Models/Materials/SpaceshipGlow.mat
+GAM 307 Ongoing/Assets/SampleScenes/Models/Materials/SpaceshipGlow.mat.meta
+GAM 307 Ongoing/Assets/SampleScenes/Models/Materials/SpaceshipHull.mat
+GAM 307 Ongoing/Assets/SampleScenes/Models/Materials/SpaceshipHull.mat.meta
+GAM 307 Ongoing/Assets/SampleScenes/Models/MiniRamps.fbx
+GAM 307 Ongoing/Assets/SampleScenes/Models/MiniRamps.fbx.meta
+GAM 307 Ongoing/Assets/SampleScenes/Models/Pickup.fbx
+GAM 307 Ongoing/Assets/SampleScenes/Models/Pickup.fbx.meta
+GAM 307 Ongoing/Assets/SampleScenes/Models/Pillar.fbx
+GAM 307 Ongoing/Assets/SampleScenes/Models/Pillar.fbx.meta
+GAM 307 Ongoing/Assets/SampleScenes/Models/Platform.fbx
+GAM 307 Ongoing/Assets/SampleScenes/Models/Platform.fbx.meta
+GAM 307 Ongoing/Assets/SampleScenes/Models/Platforms.fbx
+GAM 307 Ongoing/Assets/SampleScenes/Models/Platforms.fbx.meta
+GAM 307 Ongoing/Assets/SampleScenes/Models/PrimaryJumpRamp.fbx
+GAM 307 Ongoing/Assets/SampleScenes/Models/PrimaryJumpRamp.fbx.meta
+GAM 307 Ongoing/Assets/SampleScenes/Models/RampElevated.fbx
+GAM 307 Ongoing/Assets/SampleScenes/Models/RampElevated.fbx.meta
+GAM 307 Ongoing/Assets/SampleScenes/Models/Ring.fbx
+GAM 307 Ongoing/Assets/SampleScenes/Models/Ring.fbx.meta
+GAM 307 Ongoing/Assets/SampleScenes/Navmesh.meta
+GAM 307 Ongoing/Assets/SampleScenes/Navmesh/CarAI.asset
+GAM 307 Ongoing/Assets/SampleScenes/Navmesh/CarAI.asset.meta
+GAM 307 Ongoing/Assets/SampleScenes/Navmesh/CharacterThirdPersonAI.asset
+GAM 307 Ongoing/Assets/SampleScenes/Navmesh/CharacterThirdPersonAI.asset.meta
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs.meta
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/Box.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/Box.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/BoxPile.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/BoxPile.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/BoxSmall.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/BoxSmall.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/CameraSwitch.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/CameraSwitch.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/CameraSwitchUI.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/CameraSwitchUI.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/GoalPosts.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/GoalPosts.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/GroundArena.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/GroundArena.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/GroundObstacles.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/GroundObstacles.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/GroundRunway.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/GroundRunway.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/GroundTrack.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/GroundTrack.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/House.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/House.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/LevelResetUI.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/LevelResetUI.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/Loop.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/Loop.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/MobileShaderReplacements.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/MobileShaderReplacements.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/Pickup.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/Pickup.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/Pillar.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/Pillar.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/ResetterUI.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/ResetterUI.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/Ring.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/Ring.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/Sea.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/Sea.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/SmashBoxes.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/SmashBoxes.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/Wall.prefab
+GAM 307 Ongoing/Assets/SampleScenes/Prefabs/Wall.prefab.meta
+GAM 307 Ongoing/Assets/SampleScenes/Scenes.meta
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/2dCharacter.unity
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/2dCharacter.unity.meta
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/AircraftJet2Axis.unity
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/AircraftJet2Axis.unity.meta
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/AircraftJetAI.unity
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/AircraftJetAI.unity.meta
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/AircraftPropeller4Axis.unity
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/AircraftPropeller4Axis.unity.meta
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/AircraftPropellerAI.unity
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/AircraftPropellerAI.unity.meta
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/Car.unity
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/Car.unity.meta
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/CarAIWaypointBased.unity
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/CarAIWaypointBased.unity.meta
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/CharacterFirstPerson.meta
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/CharacterFirstPerson.unity
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/CharacterFirstPerson.unity.meta
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/CharacterFirstPerson/NavMesh.asset
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/CharacterFirstPerson/NavMesh.asset.meta
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/CharacterThirdPerson.unity
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/CharacterThirdPerson.unity.meta
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/CharacterThirdPersonAI.meta
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/CharacterThirdPersonAI.unity
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/CharacterThirdPersonAI.unity.meta
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/CharacterThirdPersonAI/NavMesh.asset
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/CharacterThirdPersonAI/NavMesh.asset.meta
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/Particles.unity
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/Particles.unity.meta
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/RollerBall.unity
+GAM 307 Ongoing/Assets/SampleScenes/Scenes/RollerBall.unity.meta
+GAM 307 Ongoing/Assets/SampleScenes/Scripts.meta
+GAM 307 Ongoing/Assets/SampleScenes/Scripts/CameraSwitch.cs
+GAM 307 Ongoing/Assets/SampleScenes/Scripts/CameraSwitch.cs.meta
+GAM 307 Ongoing/Assets/SampleScenes/Scripts/LevelReset.cs
+GAM 307 Ongoing/Assets/SampleScenes/Scripts/LevelReset.cs.meta
+GAM 307 Ongoing/Assets/SampleScenes/Scripts/ParticleSceneControls.cs
+GAM 307 Ongoing/Assets/SampleScenes/Scripts/ParticleSceneControls.cs.meta
+GAM 307 Ongoing/Assets/SampleScenes/Scripts/PlaceTargetWithMouse.cs
+GAM 307 Ongoing/Assets/SampleScenes/Scripts/PlaceTargetWithMouse.cs.meta
+GAM 307 Ongoing/Assets/SampleScenes/Scripts/SlowMoButton.cs
+GAM 307 Ongoing/Assets/SampleScenes/Scripts/SlowMoButton.cs.meta
+GAM 307 Ongoing/Assets/SampleScenes/Shaders.meta
+GAM 307 Ongoing/Assets/SampleScenes/Shaders/Skybox-Procedural.shader
+GAM 307 Ongoing/Assets/SampleScenes/Shaders/Skybox-Procedural.shader.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/ChevronAlbedo.png
+GAM 307 Ongoing/Assets/SampleScenes/Textures/ChevronAlbedo.png.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/FlyerAsteroidEmissive.tif
+GAM 307 Ongoing/Assets/SampleScenes/Textures/FlyerAsteroidEmissive.tif.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/FlyerPlayershipAlbedo.tif
+GAM 307 Ongoing/Assets/SampleScenes/Textures/FlyerPlayershipAlbedo.tif.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/FlyerPlayershipEmission.tif
+GAM 307 Ongoing/Assets/SampleScenes/Textures/FlyerPlayershipEmission.tif.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/FlyerPlayershipOcclusion.tif
+GAM 307 Ongoing/Assets/SampleScenes/Textures/FlyerPlayershipOcclusion.tif.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/GridEmissive.png
+GAM 307 Ongoing/Assets/SampleScenes/Textures/GridEmissive.png.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/GUIButtonEmpty.png
+GAM 307 Ongoing/Assets/SampleScenes/Textures/GUIButtonEmpty.png.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/GUIButtonReset.png
+GAM 307 Ongoing/Assets/SampleScenes/Textures/GUIButtonReset.png.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/GUIButtonRun.png
+GAM 307 Ongoing/Assets/SampleScenes/Textures/GUIButtonRun.png.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/GUIButtonSwitchLeft.png
+GAM 307 Ongoing/Assets/SampleScenes/Textures/GUIButtonSwitchLeft.png.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/GUIButtonSwitchRight.png
+GAM 307 Ongoing/Assets/SampleScenes/Textures/GUIButtonSwitchRight.png.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/GUICameraCycle.png
+GAM 307 Ongoing/Assets/SampleScenes/Textures/GUICameraCycle.png.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/GUICameraCycleDown.png
+GAM 307 Ongoing/Assets/SampleScenes/Textures/GUICameraCycleDown.png.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/GUIReticle.png
+GAM 307 Ongoing/Assets/SampleScenes/Textures/GUIReticle.png.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/GUITimescaleFull.png
+GAM 307 Ongoing/Assets/SampleScenes/Textures/GUITimescaleFull.png.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/GUITimescaleSlow.png
+GAM 307 Ongoing/Assets/SampleScenes/Textures/GUITimescaleSlow.png.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/SwatchMauveAlbedo.png
+GAM 307 Ongoing/Assets/SampleScenes/Textures/SwatchMauveAlbedo.png.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/SwatchNavyAlbedo.png
+GAM 307 Ongoing/Assets/SampleScenes/Textures/SwatchNavyAlbedo.png.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/SwatchNavyDarkAlbedo.png
+GAM 307 Ongoing/Assets/SampleScenes/Textures/SwatchNavyDarkAlbedo.png.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/SwatchOrangeAlbedo.png
+GAM 307 Ongoing/Assets/SampleScenes/Textures/SwatchOrangeAlbedo.png.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/SwatchPinkAlbedo.png
+GAM 307 Ongoing/Assets/SampleScenes/Textures/SwatchPinkAlbedo.png.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/SwatchTealAlbedo.png
+GAM 307 Ongoing/Assets/SampleScenes/Textures/SwatchTealAlbedo.png.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/SwatchTurquoiseAlbedo.png
+GAM 307 Ongoing/Assets/SampleScenes/Textures/SwatchTurquoiseAlbedo.png.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/SwatchWhiteAlbedo.png
+GAM 307 Ongoing/Assets/SampleScenes/Textures/SwatchWhiteAlbedo.png.meta
+GAM 307 Ongoing/Assets/SampleScenes/Textures/SwatchYellowAlbedo.png
+GAM 307 Ongoing/Assets/SampleScenes/Textures/SwatchYellowAlbedo.png.meta
+GAM 307 Ongoing/Assets/Scenes/SampleScene.unity
+GAM 307 Ongoing/Assets/Scenes/Scripts/Enemies/EnemyAI.cs
+GAM 307 Ongoing/Assets/Scenes/Scripts/Enemies/EnemyAI.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyCrouch.anim
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyCrouch.anim.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyCrouchingWalk.anim
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyCrouchingWalk.anim.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyFalling.anim
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyFalling.anim.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyIdle.anim
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyIdle.anim.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyJump01.anim
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyJump01.anim.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyJump02.anim
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyJump02.anim.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyJump03.anim
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyJump03.anim.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyJump04.anim
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyJump04.anim.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyJump05.anim
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyJump05.anim.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyJump06.anim
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyJump06.anim.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyJump07.anim
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyJump07.anim.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyJump08.anim
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyJump08.anim.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyJump09.anim
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyJump09.anim.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyJump10.anim
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyJump10.anim.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyJump11.anim
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyJump11.anim.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyRun.anim
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyRun.anim.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyWalk.anim
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animations/RobotBoyWalk.anim.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animator.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animator/2dCharacterAnimator.controller
+GAM 307 Ongoing/Assets/Standard Assets/2D/Animator/2dCharacterAnimator.controller.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Materials.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Materials/SpriteLit.mat
+GAM 307 Ongoing/Assets/Standard Assets/2D/Materials/SpriteLit.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/PhysicsMaterials.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/PhysicsMaterials/BouncyBox.physicsMaterial2D
+GAM 307 Ongoing/Assets/Standard Assets/2D/PhysicsMaterials/BouncyBox.physicsMaterial2D.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/PhysicsMaterials/Slippery.physicsMaterial2D
+GAM 307 Ongoing/Assets/Standard Assets/2D/PhysicsMaterials/Slippery.physicsMaterial2D.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/PhysicsMaterials/Sticky.physicsMaterial2D
+GAM 307 Ongoing/Assets/Standard Assets/2D/PhysicsMaterials/Sticky.physicsMaterial2D.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs/CharacterRobotBoy.prefab
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs/CharacterRobotBoy.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs/CollisionSlider.prefab
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs/CollisionSlider.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs/CratePink.prefab
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs/CratePink.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs/ExtentsLeft.prefab
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs/ExtentsLeft.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs/ExtentsRight.prefab
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs/ExtentsRight.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs/Killzone.prefab
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs/Killzone.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs/Platform04x01.prefab
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs/Platform04x01.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs/Platform08x01.prefab
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs/Platform08x01.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs/Platform12x01.prefab
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs/Platform12x01.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs/Platform16x01.prefab
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs/Platform16x01.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs/Platform36x01.prefab
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs/Platform36x01.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs/PlatformRamp.prefab
+GAM 307 Ongoing/Assets/Standard Assets/2D/Prefabs/PlatformRamp.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Scripts.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Scripts/Camera2DFollow.cs
+GAM 307 Ongoing/Assets/Standard Assets/2D/Scripts/Camera2DFollow.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Scripts/CameraFollow.cs
+GAM 307 Ongoing/Assets/Standard Assets/2D/Scripts/CameraFollow.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Scripts/Platformer2DUserControl.cs
+GAM 307 Ongoing/Assets/Standard Assets/2D/Scripts/Platformer2DUserControl.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Scripts/PlatformerCharacter2D.cs
+GAM 307 Ongoing/Assets/Standard Assets/2D/Scripts/PlatformerCharacter2D.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Scripts/Restarter.cs
+GAM 307 Ongoing/Assets/Standard Assets/2D/Scripts/Restarter.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Sprites.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Sprites/BackgroundGreyGridSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/2D/Sprites/BackgroundGreyGridSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Sprites/BackgroundNavyGridSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/2D/Sprites/BackgroundNavyGridSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Sprites/CratePinkGridSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/2D/Sprites/CratePinkGridSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Sprites/PlatformWhiteSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/2D/Sprites/PlatformWhiteSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Sprites/RobotBoyCrouchSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/2D/Sprites/RobotBoyCrouchSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Sprites/RobotBoyDeathSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/2D/Sprites/RobotBoyDeathSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Sprites/RobotBoyIdleSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/2D/Sprites/RobotBoyIdleSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Sprites/RobotBoyJumpSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/2D/Sprites/RobotBoyJumpSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Sprites/RobotBoyRollSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/2D/Sprites/RobotBoyRollSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Sprites/RobotBoyRunSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/2D/Sprites/RobotBoyRunSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/2D/Sprites/RobotBoyWalkSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/2D/Sprites/RobotBoyWalkSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/Cameras.meta
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/CameraGuidelines.txt
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/CameraGuidelines.txt.meta
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Prefabs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Prefabs/CctvCamera.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Prefabs/CctvCamera.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Prefabs/FreeLookCameraRig.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Prefabs/FreeLookCameraRig.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Prefabs/HandheldCamera.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Prefabs/HandheldCamera.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Prefabs/MultipurposeCameraRig.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Prefabs/MultipurposeCameraRig.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Scripts.meta
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Scripts/AbstractTargetFollower.cs
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Scripts/AbstractTargetFollower.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Scripts/AutoCam.cs
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Scripts/AutoCam.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Scripts/FreeLookCam.cs
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Scripts/FreeLookCam.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Scripts/HandHeldCam.cs
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Scripts/HandHeldCam.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Scripts/LookatTarget.cs
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Scripts/LookatTarget.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Scripts/PivotBasedCameraRig.cs
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Scripts/PivotBasedCameraRig.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Scripts/ProtectCameraFromWallClip.cs
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Scripts/ProtectCameraFromWallClip.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Scripts/TargetFieldOfView.cs
+GAM 307 Ongoing/Assets/Standard Assets/Cameras/Scripts/TargetFieldOfView.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep01.wav
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep01.wav.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep02.wav
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep02.wav.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep03.wav
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep03.wav.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep04.wav
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep04.wav.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Jump.wav
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Jump.wav.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Land.wav
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Land.wav.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/FirstPersonCharacterGuidelines.txt
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/FirstPersonCharacterGuidelines.txt.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs/FPSController.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs/FPSController.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs/RigidBodyFPSController.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs/RigidBodyFPSController.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/HeadBob.cs
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/HeadBob.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs
+GAM 307 Ongoing/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/RollerBall.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/RollerBall/Materials.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/RollerBall/Materials/RollerBallGrey.mat
+GAM 307 Ongoing/Assets/Standard Assets/Characters/RollerBall/Materials/RollerBallGrey.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/RollerBall/Materials/RollerBallWhite.mat
+GAM 307 Ongoing/Assets/Standard Assets/Characters/RollerBall/Materials/RollerBallWhite.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/RollerBall/Models.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/RollerBall/Models/RollerBall.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Characters/RollerBall/Models/RollerBall.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/RollerBall/Prefabs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/RollerBall/Prefabs/RollerBall.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Characters/RollerBall/Prefabs/RollerBall.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/RollerBall/RollerBallGuidelines.txt
+GAM 307 Ongoing/Assets/Standard Assets/Characters/RollerBall/RollerBallGuidelines.txt.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/RollerBall/Scripts.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/RollerBall/Scripts/Ball.cs
+GAM 307 Ongoing/Assets/Standard Assets/Characters/RollerBall/Scripts/Ball.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/RollerBall/Scripts/BallUserControl.cs
+GAM 307 Ongoing/Assets/Standard Assets/Characters/RollerBall/Scripts/BallUserControl.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/RollerBall/Textures.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/RollerBall/Textures/RollerBallAlbedo.png
+GAM 307 Ongoing/Assets/Standard Assets/Characters/RollerBall/Textures/RollerBallAlbedo.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/RollerBall/Textures/RollerBallSpecularGloss.png
+GAM 307 Ongoing/Assets/Standard Assets/Characters/RollerBall/Textures/RollerBallSpecularGloss.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidCrouch.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidCrouch.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidIdle.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidIdle.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidIdleJumpUp.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidIdleJumpUp.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidJumpAndFall.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidJumpAndFall.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidMidAir.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidMidAir.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidRun.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidRun.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidRunTurn.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidRunTurn.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidRunTurnSharp.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidRunTurnSharp.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidStandTurn.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidStandTurn.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidWalk.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidWalk.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidWalkTurn.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidWalkTurn.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidWalkTurnSharp.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animation/HumanoidWalkTurnSharp.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animator.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animator/ThirdPersonAnimatorController.controller
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Animator/ThirdPersonAnimatorController.controller.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanGrey.mat
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanGrey.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanWhite.mat
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Materials/EthanWhite.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Models.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Models/Ethan.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Models/Ethan.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Prefabs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Prefabs/AIThirdPersonController.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Prefabs/AIThirdPersonController.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Prefabs/ThirdPersonController.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Prefabs/ThirdPersonController.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/AICharacterControl.cs
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/AICharacterControl.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Textures.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanNormals.png
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanNormals.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanOcclusion.png
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/Textures/EthanOcclusion.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/ThirdPersonCharacterGuidelines.txt
+GAM 307 Ongoing/Assets/Standard Assets/Characters/ThirdPersonCharacter/ThirdPersonCharacterGuidelines.txt.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/CrossPlatformInputGuidelines.txt
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/CrossPlatformInputGuidelines.txt.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Prefabs.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Prefabs/CarTiltControls.prefab
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Prefabs/CarTiltControls.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Prefabs/DualTouchControls.prefab
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Prefabs/DualTouchControls.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileAircraftControls.prefab
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileAircraftControls.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileSingleStickControl.prefab
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileSingleStickControl.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileTiltControlRig.prefab
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Prefabs/MobileTiltControlRig.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Scripts.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Scripts/AxisTouchButton.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Scripts/ButtonHandler.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Scripts/CrossPlatformInputManager.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Scripts/InputAxisScrollbar.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Scripts/Joystick.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Scripts/MobileControlRig.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Scripts/PlatformSpecific/StandaloneInput.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Scripts/TiltInput.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Scripts/TouchPad.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Scripts/VirtualInput.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorOverSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorOverSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorUpSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonAcceleratorUpSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowOverSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowOverSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowUpSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonArrowUpSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeOverSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeOverSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeUpSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonBrakeUpSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonCameraCycleUpSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonCameraCycleUpSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonResetSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonResetSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonSpacebarSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonSpacebarSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickOverSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickOverSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickUpSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonThumbstickUpSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleFullUpSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleFullUpSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleSlowUpSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/ButtonTimescaleSlowUpSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderBackgroundSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/SliderHandleSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/TouchpadSprite.png
+GAM 307 Ongoing/Assets/Standard Assets/CrossPlatformInput/Sprites/TouchpadSprite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/Editor.meta
+GAM 307 Ongoing/Assets/Standard Assets/Editor/CrossPlatformInput.meta
+GAM 307 Ongoing/Assets/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs
+GAM 307 Ongoing/Assets/Standard Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Editor/Water.meta
+GAM 307 Ongoing/Assets/Standard Assets/Editor/Water/Water4.meta
+GAM 307 Ongoing/Assets/Standard Assets/Editor/Water/Water4/GerstnerDisplaceEditor.cs
+GAM 307 Ongoing/Assets/Standard Assets/Editor/Water/Water4/GerstnerDisplaceEditor.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Editor/Water/Water4/PlanarReflectionEditor.cs
+GAM 307 Ongoing/Assets/Standard Assets/Editor/Water/Water4/PlanarReflectionEditor.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Editor/Water/Water4/SpecularLightingEditor.cs
+GAM 307 Ongoing/Assets/Standard Assets/Editor/Water/Water4/SpecularLightingEditor.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Editor/Water/Water4/WaterBaseEditor.cs
+GAM 307 Ongoing/Assets/Standard Assets/Editor/Water/Water4/WaterBaseEditor.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Editor/Water/Water4/WaterEditorUtility.cs
+GAM 307 Ongoing/Assets/Standard Assets/Editor/Water/Water4/WaterEditorUtility.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/GlassRefraction.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/GlassRefraction/Materials.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/GlassRefraction/Materials/GlassRefractive.mat
+GAM 307 Ongoing/Assets/Standard Assets/Effects/GlassRefraction/Materials/GlassRefractive.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/GlassRefraction/Shaders.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/GlassRefraction/Shaders/GlassStainedBumpDistort.shader
+GAM 307 Ongoing/Assets/Standard Assets/Effects/GlassRefraction/Shaders/GlassStainedBumpDistort.shader.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/GlassRefraction/Textures.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/GlassRefraction/Textures/GlassStainedAlbedo.tif
+GAM 307 Ongoing/Assets/Standard Assets/Effects/GlassRefraction/Textures/GlassStainedAlbedo.tif.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/GlassRefraction/Textures/GlassStainedNormals.tif
+GAM 307 Ongoing/Assets/Standard Assets/Effects/GlassRefraction/Textures/GlassStainedNormals.tif.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ImageEffects.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ImageEffects/Readme.txt
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ImageEffects/Readme.txt.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightCookies.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightCookies/Textures.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightCookie.tif
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightCookie.tif.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightIrregularCookie.tif
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightCookies/Textures/FlashlightIrregularCookie.tif.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightCookies/Textures/LightHardCookie.psd
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightCookies/Textures/LightHardCookie.psd.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightCookies/Textures/LightSoftCookie.tif
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightCookies/Textures/LightSoftCookie.tif.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightCookies/Textures/LightSquareCookie.psd
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightCookies/Textures/LightSquareCookie.psd.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightFlares.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightFlares/Flares.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightFlares/Flares/50mmZoom.flare
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightFlares/Flares/50mmZoom.flare.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightFlares/Flares/FlareSmall.flare
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightFlares/Flares/FlareSmall.flare.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightFlares/Flares/Sun.flare
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightFlares/Flares/Sun.flare.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightFlares/Materials.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightFlares/Materials/Flare50mm.mat
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightFlares/Materials/Flare50mm.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightFlares/Textures.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightFlares/Textures/Flare50mm.psd
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightFlares/Textures/Flare50mm.psd.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightFlares/Textures/FlareStar.psd
+GAM 307 Ongoing/Assets/Standard Assets/Effects/LightFlares/Textures/FlareStar.psd.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Guidelines.txt
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Guidelines.txt.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Materials.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Materials/GridProjector.mat
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Materials/GridProjector.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Materials/LightProjector.mat
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Materials/LightProjector.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Materials/ShadowProjector.mat
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Materials/ShadowProjector.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Prefabs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Prefabs/BlobLightProjector.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Prefabs/BlobLightProjector.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Prefabs/BlobShadowProjector.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Prefabs/BlobShadowProjector.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Prefabs/GridProjector.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Prefabs/GridProjector.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Shaders.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Shaders/ProjectorLight.shader
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Shaders/ProjectorLight.shader.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Shaders/ProjectorMultiply.shader
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Shaders/ProjectorMultiply.shader.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Textures.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Textures/Falloff.psd
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Textures/Falloff.psd.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Textures/Grid.psd
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Textures/Grid.psd.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Textures/Light.psd
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Textures/Light.psd.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Textures/Shadow.psd
+GAM 307 Ongoing/Assets/Standard Assets/Effects/Projectors/Textures/Shadow.psd.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/TessellationShaders.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/TessellationShaders/Materials.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecular.mat
+GAM 307 Ongoing/Assets/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecular.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecularDisplacement.mat
+GAM 307 Ongoing/Assets/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecularDisplacement.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecularSmooth.mat
+GAM 307 Ongoing/Assets/Standard Assets/Effects/TessellationShaders/Materials/TesselatedBumpSpecularSmooth.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/TessellationShaders/Models.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/TessellationShaders/Models/LowPolySphere.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Effects/TessellationShaders/Models/LowPolySphere.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/TessellationShaders/Scenes.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/TessellationShaders/Scenes/TessellationSample.unity
+GAM 307 Ongoing/Assets/Standard Assets/Effects/TessellationShaders/Scenes/TessellationSample.unity.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/TessellationShaders/Shaders.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/TessellationShaders/Shaders/BumpedSpecularDisplacement.shader
+GAM 307 Ongoing/Assets/Standard Assets/Effects/TessellationShaders/Shaders/BumpedSpecularDisplacement.shader.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/TessellationShaders/Shaders/BumpedSpecularSmooth.shader
+GAM 307 Ongoing/Assets/Standard Assets/Effects/TessellationShaders/Shaders/BumpedSpecularSmooth.shader.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/TessellationShaders/Textures.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/TessellationShaders/Textures/CliffHeight.png
+GAM 307 Ongoing/Assets/Standard Assets/Effects/TessellationShaders/Textures/CliffHeight.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/TessellationShaders/Textures/CliffNormals.png
+GAM 307 Ongoing/Assets/Standard Assets/Effects/TessellationShaders/Textures/CliffNormals.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ToonShading.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ToonShading/Materials.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ToonShading/Materials/ToonBasic.mat
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ToonShading/Materials/ToonBasic.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ToonShading/Materials/ToonBasicOutline.mat
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ToonShading/Materials/ToonBasicOutline.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ToonShading/Materials/ToonLit.mat
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ToonShading/Materials/ToonLit.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ToonShading/Materials/ToonLitOutline.mat
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ToonShading/Materials/ToonLitOutline.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ToonShading/Shaders.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ToonShading/Shaders/ToonBasic.shader
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ToonShading/Shaders/ToonBasic.shader.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ToonShading/Shaders/ToonBasicOutline.shader
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ToonShading/Shaders/ToonBasicOutline.shader.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ToonShading/Shaders/ToonLit.shader
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ToonShading/Shaders/ToonLit.shader.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ToonShading/Shaders/ToonLitOutline.shader
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ToonShading/Shaders/ToonLitOutline.shader.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ToonShading/Textures.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ToonShading/Textures/ToonLit.psd
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ToonShading/Textures/ToonLit.psd.meta
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ToonShading/Textures/UtilToonGradient.png
+GAM 307 Ongoing/Assets/Standard Assets/Effects/ToonShading/Textures/UtilToonGradient.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/Billboard.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/Billboard.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Branches_0.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Branches_0.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Branches_1.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Branches_1.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/FacingLeaves_4.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/FacingLeaves_4.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Fronds_2.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Fronds_2.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Leaves_3.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Leaves_3.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Branches_0.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Branches_0.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Branches_1.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Branches_1.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/FacingLeaves_4.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/FacingLeaves_4.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Fronds_2.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Fronds_2.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Leaves_3.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Leaves_3.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Branches_0.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Branches_0.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Branches_1.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Branches_1.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/FacingLeaves_4.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/FacingLeaves_4.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Fronds_2.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Fronds_2.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Leaves_3.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Leaves_3.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop.spm
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop.spm.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Billboards.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Billboards.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Billboards_Normal.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Billboards_Normal.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Normal.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Normal.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Specular.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Specular.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/Billboard.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/Billboard.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD0.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD0/Branches_0.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD0/Branches_0.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD0/Leaves_1.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD0/Leaves_1.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD1.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD1/Branches_0.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD1/Branches_0.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD1/Leaves_1.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD1/Leaves_1.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD2.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD2/Branches_0.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD2/Branches_0.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD2/Leaves_1.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD2/Leaves_1.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile.spm
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile.spm.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Billboards.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Billboards.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Billboards_Normal.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Billboards_Normal.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Normal.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Normal.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Specular.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Specular.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/BroadleafBark.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/BroadleafBark.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/BroadleafBark_Normal.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/BroadleafBark_Normal.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop_Normal.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop_Normal.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop_Spec.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop_Spec.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop_Normal.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop_Normal.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop_Spec.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop_Spec.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile_Normal.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile_Normal.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile_Spec.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile_Spec.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_01.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_01.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_01_Normal.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_01_Normal.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_02.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_02.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_02_Normal.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_02_Normal.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/ClippedFrond.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/ClippedFrond.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/ClippedFrond_Normal.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/ClippedFrond_Normal.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/Billboard.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/Billboard.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Branches_0.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Branches_0.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Branches_1.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Branches_1.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Fronds_2.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Fronds_2.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Leaves_3.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Leaves_3.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Branches_0.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Branches_0.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Branches_1.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Branches_1.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Fronds_2.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Fronds_2.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Leaves_3.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Leaves_3.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Branches_0.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Branches_0.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Branches_1.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Branches_1.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Leaves_3.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Leaves_3.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop.spm
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop.spm.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Billboards.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Billboards.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Billboards_Normal.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Billboards_Normal.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Normal.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Normal.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Specular.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Specular.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Dekstop_Spec.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Dekstop_Spec.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Desktop.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Desktop.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Desktop_Normal.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Desktop_Normal.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/ConiferBark.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/ConiferBark.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/ConiferBark_Normal.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/ConiferBark_Normal.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Thumb_Conifer_Desktop.jpg
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Conifer/Thumb_Conifer_Desktop.jpg.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/Billboard.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/Billboard.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Branches_0.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Branches_0.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Branches_1.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Branches_1.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Fronds_2.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Fronds_2.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Leaves_3.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Leaves_3.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1/Branches_0.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1/Branches_0.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1/Fronds_2.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1/Fronds_2.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1/Leaves_3.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1/Leaves_3.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD2.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD2/Branches_0.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD2/Branches_0.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD2/Fronds_2.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD2/Fronds_2.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop.spm
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop.spm.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Billboards.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Billboards.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Billboards_Normal.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Billboards_Normal.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Normal.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Normal.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Specular.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Specular.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark_Detail.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark_Detail.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark_Detail_Normal.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark_Detail_Normal.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark_Normal.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark_Normal.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmFrond.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmFrond.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmFrond_Normal.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmFrond_Normal.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmFrond_Spec.tga
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmFrond_Spec.tga.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Thumb_Palm_Desktop.jpg
+GAM 307 Ongoing/Assets/Standard Assets/Environment/SpeedTree/Palm/Thumb_Palm_Desktop.jpg.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/TerrainAssets.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/TerrainAssets/BillboardTextures.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/TerrainAssets/BillboardTextures/GrassFrond01AlbedoAlpha.psd
+GAM 307 Ongoing/Assets/Standard Assets/Environment/TerrainAssets/BillboardTextures/GrassFrond01AlbedoAlpha.psd.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/TerrainAssets/BillboardTextures/GrassFrond02AlbedoAlpha.psd
+GAM 307 Ongoing/Assets/Standard Assets/Environment/TerrainAssets/BillboardTextures/GrassFrond02AlbedoAlpha.psd.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/CliffAlbedoSpecular.psd
+GAM 307 Ongoing/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/CliffAlbedoSpecular.psd.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/GrassHillAlbedo.psd
+GAM 307 Ongoing/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/GrassHillAlbedo.psd.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/GrassRockyAlbedo.psd
+GAM 307 Ongoing/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/GrassRockyAlbedo.psd.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/MudRockyAlbedoSpecular.bmp
+GAM 307 Ongoing/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/MudRockyAlbedoSpecular.bmp.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/MudRockyNormals.bmp
+GAM 307 Ongoing/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/MudRockyNormals.bmp.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/SandAlbedo.psd
+GAM 307 Ongoing/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/SandAlbedo.psd.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic).meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/DO_NOT_WORK_IN_VR.txt
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/DO_NOT_WORK_IN_VR.txt.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Materials.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterBasicDaytime.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterBasicDaytime.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterBasicNighttime.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterBasicNighttime.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterDefault.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterDefault.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Models.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Models/WaterBasicPlane.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Models/WaterBasicPlane.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Prefabs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Prefabs/WaterBasicDaytime.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Prefabs/WaterBasicDaytime.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Prefabs/WaterBasicNightime.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Prefabs/WaterBasicNightime.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Scripts.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Scripts/WaterBasic.cs
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Scripts/WaterBasic.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Shaders.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Shaders/FXWaterBasic.shader
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Shaders/FXWaterBasic.shader.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Textures.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicDaytimeGradient.psd
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicDaytimeGradient.psd.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicNighttimeGradient.psd
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicNighttimeGradient.psd.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicNormals.jpg
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicNormals.jpg.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/DO_NOT_WORK_IN_VR.txt
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/DO_NOT_WORK_IN_VR.txt.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Materials.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Materials/WaterPlaneMaterial.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Materials/WaterPlaneMaterial.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Materials/WaterProDaytime.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Materials/WaterProDaytime.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Materials/WaterProNighttime.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Materials/WaterProNighttime.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Models.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Models/WaterPlane.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Models/WaterPlane.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Prefabs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Prefabs/WaterProDaytime.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Prefabs/WaterProDaytime.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Prefabs/WaterProNighttime.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Prefabs/WaterProNighttime.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Scripts.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Scripts/Displace.cs
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Scripts/Displace.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Scripts/GerstnerDisplace.cs
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Scripts/GerstnerDisplace.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Scripts/MeshContainer.cs
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Scripts/MeshContainer.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Scripts/PlanarReflection.cs
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Scripts/PlanarReflection.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Scripts/SpecularLighting.cs
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Scripts/SpecularLighting.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Scripts/Water.cs
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Scripts/Water.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Scripts/WaterBase.cs
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Scripts/WaterBase.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Scripts/WaterTile.cs
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Scripts/WaterTile.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Shaders.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Shaders/FXWaterPro.shader
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Shaders/FXWaterPro.shader.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Textures.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Textures/WaterBump.jpg
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Textures/WaterBump.jpg.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Textures/WaterFresnel.psd
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Textures/WaterFresnel.psd.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Textures/WaterProDaytimeGradient.psd
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Textures/WaterProDaytimeGradient.psd.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Textures/WaterProNighttimeGradient.psd
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water/Textures/WaterProNighttimeGradient.psd.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Materials.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Materials/OceanPlaneMaterial.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Materials/OceanPlaneMaterial.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Materials/Water4Advanced.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Materials/Water4Advanced.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Materials/Water4Simple.mat
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Materials/Water4Simple.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Models.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Models/OceanPlane.FBX
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Models/OceanPlane.FBX.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Prefabs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Prefabs/Water4Advanced.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Prefabs/Water4Advanced.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Prefabs/Water4Simple.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Prefabs/Water4Simple.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Shaders.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Shaders/FXWater4Advanced.shader
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Shaders/FXWater4Advanced.shader.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Shaders/FXWater4Simple.shader
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Shaders/FXWater4Simple.shader.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Shaders/WaterInclude.cginc
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Shaders/WaterInclude.cginc.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Textures.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Textures/SimpleFoam.png
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Textures/SimpleFoam.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Textures/SmallWaves.png
+GAM 307 Ongoing/Assets/Standard Assets/Environment/Water/Water4/Textures/SmallWaves.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/Fonts.meta
+GAM 307 Ongoing/Assets/Standard Assets/Fonts/OpenSans.meta
+GAM 307 Ongoing/Assets/Standard Assets/Fonts/OpenSans/License!.txt
+GAM 307 Ongoing/Assets/Standard Assets/Fonts/OpenSans/License!.txt.meta
+GAM 307 Ongoing/Assets/Standard Assets/Fonts/OpenSans/OpenSansBold.ttf
+GAM 307 Ongoing/Assets/Standard Assets/Fonts/OpenSans/OpenSansBold.ttf.meta
+GAM 307 Ongoing/Assets/Standard Assets/Fonts/OpenSans/OpenSansLight.ttf
+GAM 307 Ongoing/Assets/Standard Assets/Fonts/OpenSans/OpenSansLight.ttf.meta
+GAM 307 Ongoing/Assets/Standard Assets/Fonts/OpenSans/OpenSansRegular.ttf
+GAM 307 Ongoing/Assets/Standard Assets/Fonts/OpenSans/OpenSansRegular.ttf.meta
+GAM 307 Ongoing/Assets/Standard Assets/Fonts/OpenSans/OpenSansSemibold.ttf
+GAM 307 Ongoing/Assets/Standard Assets/Fonts/OpenSans/OpenSansSemibold.ttf.meta
+GAM 307 Ongoing/Assets/Standard Assets/Fonts/Unipix.ttf
+GAM 307 Ongoing/Assets/Standard Assets/Fonts/Unipix.ttf.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleAfterburner.mat
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleAfterburner.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleDuststorm.mat
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleDuststorm.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleFireball.mat
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleFireball.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleFirecloud.mat
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleFirecloud.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleFirework.mat
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleFirework.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleFlameLicks.mat
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleFlameLicks.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleFlames.mat
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleFlames.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleGlow.mat
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleGlow.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleSmokeBlack.mat
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleSmokeBlack.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleSmokeMobile.mat
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleSmokeMobile.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleSmokeVertlit.mat
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleSmokeVertlit.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleSmokeWhite.mat
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleSmokeWhite.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleSpark.mat
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleSpark.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleSplashes.mat
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleSplashes.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleSpray.mat
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleSpray.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleSteam.mat
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleSteam.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleSteamMobile.mat
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleSteamMobile.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleWaterSpray.mat
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Materials/ParticleWaterSpray.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/ParticleSystemsGuidelines.txt
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/ParticleSystemsGuidelines.txt.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/Afterburner.prefab
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/Afterburner.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/DustStorm.prefab
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/DustStorm.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/DustStormMobile.prefab
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/DustStormMobile.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/Explosion.prefab
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/Explosion.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/ExplosionMobile.prefab
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/ExplosionMobile.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/FireComplex.prefab
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/FireComplex.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/FireMobile.prefab
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/FireMobile.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/Fireworks.prefab
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/Fireworks.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/Flare.prefab
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/Flare.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/FlareMobile.prefab
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/FlareMobile.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/Hose.prefab
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/Hose.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/HoseMobile.prefab
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/HoseMobile.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/Smoke.prefab
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/Smoke.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/Steam.prefab
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/Steam.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/SteamMobile.prefab
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/SteamMobile.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/TyreBurnoutSmoke.prefab
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/TyreBurnoutSmoke.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/WildFire.prefab
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Prefabs/WildFire.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Scripts.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Scripts/AfterburnerPhysicsForce.cs
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Scripts/AfterburnerPhysicsForce.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Scripts/ExplosionFireAndDebris.cs
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Scripts/ExplosionFireAndDebris.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Scripts/ExplosionPhysicsForce.cs
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Scripts/ExplosionPhysicsForce.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Scripts/Explosive.cs
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Scripts/Explosive.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Scripts/ExtinguishableParticleSystem.cs
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Scripts/ExtinguishableParticleSystem.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Scripts/FireLight.cs
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Scripts/FireLight.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Scripts/Hose.cs
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Scripts/Hose.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Scripts/ParticleSystemMultiplier.cs
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Scripts/ParticleSystemMultiplier.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Scripts/SmokeParticles.cs
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Scripts/SmokeParticles.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Scripts/WaterHoseParticles.cs
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Scripts/WaterHoseParticles.cs.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Shaders.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Shaders/PriorityParticleAdd.shader
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Shaders/PriorityParticleAdd.shader.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Shaders/PriorityParticleAddSoft.shader
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Shaders/PriorityParticleAddSoft.shader.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Shaders/PriorityParticleAlpha.shader
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Shaders/PriorityParticleAlpha.shader.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Textures.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Textures/ParticleBokeh.png
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Textures/ParticleBokeh.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Textures/ParticleCloudBlack.png
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Textures/ParticleCloudBlack.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Textures/ParticleCloudWhite.png
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Textures/ParticleCloudWhite.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Textures/ParticleFireballSheet.png
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Textures/ParticleFireballSheet.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Textures/ParticleFirecloud.png
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Textures/ParticleFirecloud.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Textures/ParticleFlameLickSheet.png
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Textures/ParticleFlameLickSheet.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Textures/ParticleFlamesSheet.png
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Textures/ParticleFlamesSheet.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Textures/ParticleFlare.png
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Textures/ParticleFlare.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Textures/Spark.png
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Textures/Spark.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Textures/SplashesFineParticle.png
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Textures/SplashesFineParticle.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Textures/SplashesLargeParticle.png
+GAM 307 Ongoing/Assets/Standard Assets/ParticleSystems/Textures/SplashesLargeParticle.png.meta
+GAM 307 Ongoing/Assets/Standard Assets/PhysicsMaterials.meta
+GAM 307 Ongoing/Assets/Standard Assets/PhysicsMaterials/Bouncy.physicmaterial
+GAM 307 Ongoing/Assets/Standard Assets/PhysicsMaterials/Bouncy.physicmaterial.meta
+GAM 307 Ongoing/Assets/Standard Assets/PhysicsMaterials/Ice.physicmaterial
+GAM 307 Ongoing/Assets/Standard Assets/PhysicsMaterials/Ice.physicmaterial.meta
+GAM 307 Ongoing/Assets/Standard Assets/PhysicsMaterials/MaxFriction.physicMaterial
+GAM 307 Ongoing/Assets/Standard Assets/PhysicsMaterials/MaxFriction.physicMaterial.meta
+GAM 307 Ongoing/Assets/Standard Assets/PhysicsMaterials/Metal.physicmaterial
+GAM 307 Ongoing/Assets/Standard Assets/PhysicsMaterials/Metal.physicmaterial.meta
+GAM 307 Ongoing/Assets/Standard Assets/PhysicsMaterials/Rubber.physicmaterial
+GAM 307 Ongoing/Assets/Standard Assets/PhysicsMaterials/Rubber.physicmaterial.meta
+GAM 307 Ongoing/Assets/Standard Assets/PhysicsMaterials/Wood.physicmaterial
+GAM 307 Ongoing/Assets/Standard Assets/PhysicsMaterials/Wood.physicmaterial.meta
+GAM 307 Ongoing/Assets/Standard Assets/PhysicsMaterials/ZeroFriction.physicMaterial
+GAM 307 Ongoing/Assets/Standard Assets/PhysicsMaterials/ZeroFriction.physicMaterial.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Materials.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Materials/NavyGrid.mat
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Materials/NavyGrid.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Materials/NavySmooth.mat
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Materials/NavySmooth.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Materials/PinkGrid.mat
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Materials/PinkGrid.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Materials/PinkSmooth.mat
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Materials/PinkSmooth.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Materials/YellowGrid.mat
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Materials/YellowGrid.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Materials/YellowSmooth.mat
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Materials/YellowSmooth.mat.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/BlockPrototype04x04x04.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/BlockPrototype04x04x04.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/CubePrototype02x02x02.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/CubePrototype02x02x02.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/CubePrototype04x04x04.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/CubePrototype04x04x04.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/CubePrototype08x08x08.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/CubePrototype08x08x08.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/FloorPrototype04x01x04.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/FloorPrototype04x01x04.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/FloorPrototype08x01x08.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/FloorPrototype08x01x08.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/FloorPrototype64x01x64.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/FloorPrototype64x01x64.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/HousePrototype16x16x24.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/HousePrototype16x16x24.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/JoinInnerPrototype01x06x01.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/JoinInnerPrototype01x06x01.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/JoinMidPrototype04x06x01.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/JoinMidPrototype04x06x01.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/JoinOuterPrototype02x06x02.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/JoinOuterPrototype02x06x02.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/PickupPrototype01x01x01.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/PickupPrototype01x01x01.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/PillarPrototype01x02x01.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/PillarPrototype01x02x01.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/PillarPrototype02x08x02.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/PillarPrototype02x08x02.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/PlatformPrototype02x01x02.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/PlatformPrototype02x01x02.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/PlatformPrototype04x01x04.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/PlatformPrototype04x01x04.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/PlatformPrototype08x01x08.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/PlatformPrototype08x01x08.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/RampPrototype04x02x02.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/RampPrototype04x02x02.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/StepsPrototype04x02x02.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/StepsPrototype04x02x02.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/WallPrototype08x08x01.fbx
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Models/WallPrototype08x08x01.fbx.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Prefabs.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Prefabs/BlockPrototype04x04x04.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Prefabs/BlockPrototype04x04x04.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Prefabs/CubePrototype02x02x02.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Prefabs/CubePrototype02x02x02.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Prefabs/CubePrototype04x04x04.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Prefabs/CubePrototype04x04x04.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Prefabs/CubePrototype08x08x08.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Prefabs/CubePrototype08x08x08.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Prefabs/FloorPrototype04x01x04.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Prefabs/FloorPrototype04x01x04.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Prefabs/FloorPrototype08x01x08.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Prefabs/FloorPrototype08x01x08.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Prefabs/FloorPrototype64x01x64.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Prefabs/FloorPrototype64x01x64.prefab.meta
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Prefabs/HousePrototype16x16x24.prefab
+GAM 307 Ongoing/Assets/Standard Assets/Prototyping/Prefabs/HousePrototype16x16x24.prefab.meta
